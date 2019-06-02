@@ -1,0 +1,685 @@
+/* CSS Document */
+
+
+/* Page */
+
+
+/* NavBar */
+
+
+/* Fills */
+
+
+/* Carousel */
+
+
+/* Footer */
+
+
+/* Custom elements */
+
+
+/* Buttons */
+
+
+/* Sections */
+
+html,
+body {
+    height: 100%;
+    font-size: 16pt;
+}
+
+.container {
+    margin-top: 0px;
+}
+
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
+
+.row {
+    padding: 4em 0;
+}
+
+.row_zero {
+    padding: 0;
+}
+
+#logosection img,
+#logosection div {
+    margin-top: 6vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    font-weight: 300;
+    font-style: normal;
+    color: #fffffa;
+    background-color: #333333;
+}
+
+p {
+    padding: 0.5em 0 0 0;
+}
+
+a:link,
+a:visited {
+    color: #5dd1f9;
+}
+
+h1 {
+    font-family: league-gothic, sans-serif;
+    font-weight: 500;
+    font-size: 3em;
+    text-align: left;
+}
+
+h2 {
+    padding: 0 0 0.5em 0;
+    font-family: league-gothic, sans-serif;
+    font-weight: 500;
+    font-size: 2.25em;
+    text-shadow: 2px 2px 8px rgba(255, 255, 255, .5);
+    letter-spacing: 2px;
+}
+
+h3 {
+    font-family: league-gothic, sans-serif;
+    font-weight: 300;
+    font-size: 1.5em;
+    font-style: normal;
+    padding: 1.5em 1em 0 0;
+}
+
+ul {
+    margin: 0;
+}
+
+.pdflink {
+    font-size:0.8em;
+}
+
+@media only screen and (min-width: 992px) {
+    h1 {
+        font-size: 5em;
+    }
+    h2 {
+        font-size: 3em;
+    }
+}
+
+
+/* NavBar */
+
+.navbar-brand {
+    padding: 8px 16px 0 8px;
+    font-weight: 600;
+    font-size: 0.8em;
+    line-height: 0.85em;
+    color: #333333;
+    }
+
+.active {
+    color: #29abe2;
+    font-weight: 400;
+}
+
+
+/* Fills */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.fond {
+    margin-top: -10px;
+    background: rgb(223, 223, 223);
+    background: linear-gradient(0deg, rgba(223, 223, 223, 1) 0%, rgba(82, 82, 82, 1) 100%);
+    padding: 2vh 0 1vh 0;
+}
+
+.fond2 {
+    background: rgb(127, 188, 204);
+    background: linear-gradient(180deg, rgba(51, 51, 51, 0.2) 0%, rgba(51, 51, 51, 0.2) 100%);
+}
+
+.lessons {
+    background: url("../images/CW_Cours.jpg");
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+.cuivre{
+    background: linear-gradient(0deg, rgba(120,31,13,0.5) 0%, rgba(157,39,16,0.25) 80%);
+}
+.zen {
+    background-color:#0E0D0D;
+    background-size: cover;
+}
+.pull-bottom {
+    display: inline-block;
+    vertical-align: bottom;
+    float: none;
+}
+.police {
+    background: url("../images/Control_Wear_Police_Group2.jpg") no-repeat;
+    background-size: cover;
+    background-position: top;
+    min-height: 40vh;
+    color: #ffffa;
+    font-size: 2em;
+    text-transform: uppercase;
+    padding-top:25%;
+
+}
+
+.prevent {
+    background: url("../images/intro.jpg") no-repeat;
+    background-size: cover;
+    background-position: left;
+
+}
+
+.prevent .row {
+    padding-bottom: 0.5em;
+
+}
+
+.darker {
+
+	background: linear-gradient(180deg, rgba(0,0,0,0.9) 30%, rgba(0,0,0,0) 90%);
+    margin-bottom: 5vh;
+
+}
+@media only screen and (min-width: 992px) {
+	.prevent {
+    background: url("../images/background_services.jpg") no-repeat;
+	background-size: cover;
+    background-position: center;
+
+	}
+}
+
+.revert {
+    background-color: #fffffa;
+    color: #666;
+    padding: 5% 5%;
+}
+
+.numberCircle {
+    border-radius: 3px;
+    behavior: url(PIE.htc);
+    /* remove if you don't care about IE8 */
+    width: 50px;
+    height: 36px;
+    padding: 0 15px;
+    margin-right: 10px;
+    background: none;
+    border: 2px solid #666;
+    color: #666;
+    text-align: center;
+    line-height: 1em;
+}
+
+.example {
+    background: rgb(51, 51, 51);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 1) 25%, rgba(255, 0, 0, 0.25) 45%, rgba(0, 0, 0, 1) 100%);
+}
+
+
+/* Carousel */
+
+
+/* faster sliding speed */
+
+.carousel-inner>.item {
+    -webkit-transition: 0.3s ease-in-out left;
+    -moz-transition: 0.3s ease-in-out left;
+    -o-transition: 0.3s ease-in-out left;
+    transition: 0.3s ease-in-out left;
+}
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+.carousel-item .img-fluid {
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.60)
+}
+
+
+/* Footer */
+
+.footer {
+    font-weight: 300;
+    font-size: 0.7em;
+    padding-top: 20px;
+    margin-bottom: 0;
+}
+
+.footer p,
+.footer h4 {
+    color: #fffffa;
+    line-height: 1.15em;
+    marging-bottom: 0;
+}
+
+.footer p {
+    font-weight: 300;
+}
+
+.footer h4 {
+    font-weight: 700;
+}
+
+.footer img {
+    padding-right: 20px;
+}
+
+.top img {
+    padding: 0 5px;
+}
+
+.footer .row {
+    padding: 1em;
+}
+
+
+/* Page sections and custom elements */
+
+.title {
+    background-color: #333333 !important;
+    color: white;
+    font-size: 2em;
+    padding: 0.25em;
+    text-transform: uppercase;
+}
+
+.statement {
+    font-size: 1.5em;
+    font-weight: 100;
+    line-height: 1em;
+    margin-top: 2em;
+}
+
+.giantxl {
+    font-family: league-gothic, sans-serif;
+    font-weight: 500;
+    font-size: 6em;
+    text-transform: uppercase;
+    line-height: 1em;
+    display: block;
+}
+
+.minus {
+    font-size: 0.9em;
+    line-height: 1em;
+    letter-spacing: 0px;
+    font-weight: 500;
+    display: block;
+}
+
+.card {
+    margin: 0.5em 20px;
+    background-color: rgba(255, 255, 255, .3);
+    border-radius: 10px;
+}
+
+.encarts {
+    font-weight: 300;
+    font-size: 0.8em;
+    font-style: normal;
+}
+
+.encart_cards {
+    padding: 1em 1.5em;
+    background-color: rgba(255, 255, 255, .05);
+    border-radius: 10px;
+    margin-right: 10%
+}
+
+.encart_header {
+    padding: 15px 0 1px 0;
+    margin: 10vh 50% 0 0;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, .25);
+    border-radius: 10px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.encart_cards_dark {
+    padding: 1em 2em;
+    background-color: rgba(255, 255, 255, .15);
+    border-radius: 10px;
+}
+
+.card-text {
+    font-weight: 300;
+    font-size: 0.9em;
+    color: #fffffa;
+}
+
+.card-text img {
+    padding-left:0;
+    padding-right:0;
+    max-width:200%;
+}
+
+.card-title {
+    font-weight: 700;
+    font-size: 1em;
+    color: #fffffa;
+}
+
+.card-img-top {
+    border-radius: 10px 10px 0 0;
+}
+
+.product_title {
+    margin-top: 1.5em;
+    padding-right: 1.5em;
+}
+
+@media only screen and (min-width: 992px) {
+    .product_title {
+    margin-top: 1.5em;
+    padding-right: 2.5em;
+}
+}
+
+.product_title ul {
+    margin: 0;
+    padding-left: 1.5em;
+}
+
+.product {
+    font-weight: 500;
+    font-size: 1.5em;
+    line-height: 1em;
+}
+
+.line-separator {
+    height: 2px;
+    background: #717171;
+    border-bottom: 1px solid #313030;
+    margin: 2em 0;
+}
+
+.intro {
+    background-image: url("../images/Couloir-hopital-v.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin:0;
+}
+
+@media only screen and (max-width: 767px) {
+    .intro div {
+    margin:0;
+}
+}
+
+@media only screen and (min-width: 768px) {
+    .intro {
+    background-image: url("../images/Couloir-hopital.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+       
+}
+}
+
+@media only screen and (min-width: 992px) {
+	.intro {
+    background-image: url("../images/Couloir-hopital.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}}
+
+.intro_text {
+    font-weight: 400;
+    line-height: 1.3em;
+    font-size: 1.3em;
+}
+
+.embed-container {
+    height: 600px;
+    width: 420px;
+    position: relative;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    height: 500px;
+    width: 420px;
+    position: absolute;
+}
+
+@media only screen and (min-width: 992px) {
+    .embed-container {
+        height: 779px;
+        width: 525px;
+        position: relative;
+    }
+    .embed-container iframe,
+    .embed-container object,
+    .embed-container embed {
+        width: 525px;
+        height: 779px;
+        position: absolute;
+    }
+    .minus {
+        font-size: 16pt;
+        letter-spacing: 1px;
+    }
+    .giant {
+        font-size: 2em;
+    }
+    .card-text {
+        font-size: 0.7em;
+    }
+    .card {
+        margin: 2em 0 0 0;
+    }
+}
+
+
+/* Buttons */
+
+.btn-primary,
+.btn-primary:active,
+.btn-primary:visited {
+    background-color: #333333 !important;
+    border: 0px;
+    padding: 1em 2em;
+}
+
+.btn-primary:hover {
+    background-color: #DE4711 !important;
+}
+
+.btn-secondary,
+.btn-secondary:active,
+.btn-secondary:visited {
+    background-color: #DE4711 !important;
+    color: #fffffa !important;
+    border: 0px;
+    padding: 1em 2em;
+
+}
+
+.btn-secondary:hover {
+    background-color: #fffffa!important;
+    color: #DE4711!important;
+}
+
+
+/* Sections */
+
+header {
+    position: relative;
+    background-color: rgb(51,51,51);
+    height: 10vh;
+    min-height: 65vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+.hero-area {
+    background-image: url("../images/formation.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+    position: relative;
+    z-index: 2;
+}
+
+header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+background: rgb(120,31,13);
+background: linear-gradient(180deg, rgba(120,31,13,0) 10%, rgba(51,51,51,1) 95%);
+    opacity: 1;
+    z-index: 1;
+}
+@media only screen and (min-width: 992px) {
+header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+background: rgb(120,31,13);
+background: linear-gradient(180deg, rgba(120,31,13,0) 10%, rgba(51,51,51,1) 95%);
+    opacity: 1;
+    z-index: 1;
+}
+}
+#profile {
+    background: url("../images/Jerome-Bouteiller_dark.jpg") black left top no-repeat;
+}
+
+.training {
+margin-top:10%;
+}
+
+@media (pointer: coarse) and (hover: none) {
+    header {
+        /* background: url('https://source.unsplash.com/XT5OInaElMw/1600x900') black no-repeat center center scroll;*/
+        background: black no-repeat center center scroll;
+    }
+    header video {
+        display: none;
+    }
+}
+
+.video-container {
+    height: auto;
+    padding: 0;
+}
+
+.video-container video {
+    /* Setting width & height to auto prevents the browser from stretching or squishing the video */
+    width: 100%;
+    height: auto;
+    border: 15px solid #333333;
+    border-radius: 10px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.cadre {
+    border-bottom: 1px solid red;
+    border-top: 1px solid red;
+    padding: 3px 5px 5px 5px;
+    ;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1..15em;
+}
+
+.container-fluid {
+    overflow: hidden;
+}
+
+.footer-about-img img {
+    position: absolute;
+    left: 0;
+}
+
+.footer-about p {
+    padding-left: 80px;
+    text-align: left;
+}
+
+.footer-about {
+    position: relative;
+}
+
+img {
+    max-width: 100%;
+}
+
+.row.intro.align-items-center img {
+    height: auto;
+}
+
+h1.hero-heading {
+    font-size: 90px !important;
+    margin-top: 20px;
+    line-height: 100%;
+    text-shadow: 4px 4px black;
+
+}
+
+.row.example img {
+    margin-bottom: 35px;
+}
+
+.mob-margin {
+    margin-top:20vh;
+}
