@@ -8,7 +8,6 @@ taxonomy:
     tag:
         - announcement
         - EN
-continue_link: true
 feed:
     limit: 10
 author: 'Tasha Maxwell'
