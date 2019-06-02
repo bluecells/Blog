@@ -30,5 +30,5 @@ sitemap:
 pagination: true
 ---
 
-# Your Safety **.training** Space
+# The **Blog**
 ## Learn, Share, and Discover
