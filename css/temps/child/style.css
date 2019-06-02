@@ -1,0 +1,39 @@
+/*
+Theme Name: Twenty Nineteen Child
+Theme URL: www.wordpress.org
+Description: Twenty Nineteen Child Theme
+Author: Jérôme Bouteiller
+Author URL: yoursafety.training
+Template: twentynineteen
+Version: 1.0.0
+Text Domain: twentynineteen-child
+*/
+
+@import url("../twentynineteen/style.css");
+@import url("../bootstrap-4.0.0.css");
+@import url("../bluecells.css");
+@import url("../responsive.css");
+
+body {
+  font-family: league-gothic, sans-serif;
+  background-color: #fffffa;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333333;
+}
+
+.nav_banner {
+  background-color: #333333;
+}
+
+.entry .entry-header {
+  margin: calc(3 * 1rem) 1rem 0;
+  position: relative;
+}
+
+@media only screen and (min-width: 768px) {
+  .entry .entry-header {
+    margin: calc(3 * 1rem) calc(10% + 60px) 0;
+  }
+}

@@ -1,0 +1,510 @@
+/* CSS Document */
+
+
+/* Page */
+
+
+/* NavBar */
+
+
+/* Fills */
+
+
+/* Carousel */
+
+
+/* Footer */
+
+
+/* Custom elements */
+
+
+/* Buttons */
+
+
+/* Sections */
+
+html,
+body {
+    height: 100%;
+}
+
+.container {
+    margin-top: 0px;
+}
+
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
+
+.row {
+    padding: 4em 0;
+}
+
+.row_zero {
+    padding: 0;
+}
+
+#logosection img,
+#logosection div {
+    margin-top: 6vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 40px;
+}
+
+body {
+    font-size: 16pt;
+    font-weight: 300;
+    font-style: normal;
+    color: #fffffa;
+    background-color: #333333;
+}
+
+p {
+    padding: 0.5em 0 0 0;
+}
+
+a:link,
+a:visited {
+    color: #29abe2;
+}
+
+h1 {
+    font-family: league-gothic, sans-serif;
+    font-weight: 500;
+    font-size: 3em;
+    text-align: left;
+}
+
+h2 {
+    padding: 0 0 0.5em 0;
+    font-family: league-gothic, sans-serif;
+    font-weight: 500;
+    font-size: 2.25em;
+    text-shadow: 2px 2px 8px rgba(255, 255, 255, .5);
+    letter-spacing: 2px;
+}
+
+h3 {
+    font-family: league-gothic, sans-serif;
+    font-weight: 300;
+    font-size: 1.5em;
+    font-style: normal;
+    padding: 1.5em 1em 0 0;
+}
+
+ul {
+    margin: 0;
+}
+
+.pdflink {
+    font-size:0.8em;
+}
+
+@media only screen and (min-width: 992px) {
+    h1 {
+        font-size: 5em;
+    }
+    h2 {
+        font-size: 3em;
+    }
+}
+
+
+/* NavBar */
+
+.navbar-brand {
+    padding-top: 8px;
+    font-weight: 600;
+    font-size: 0.8em;
+    line-height: 0.85em;
+    color: #333333;
+}
+
+.active {
+    color: #29abe2;
+    font-weight: 400;
+}
+
+
+
+/* Carousel */
+
+
+/* faster sliding speed */
+
+.carousel-inner>.item {
+    -webkit-transition: 0.3s ease-in-out left;
+    -moz-transition: 0.3s ease-in-out left;
+    -o-transition: 0.3s ease-in-out left;
+    transition: 0.3s ease-in-out left;
+}
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+.carousel-item .img-fluid {
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.60)
+}
+
+
+.top img {
+    padding: 0 5px;
+}
+
+/* Page sections and custom elements */
+
+.title {
+    background-color: #333333 !important;
+    color: white;
+    font-size: 2em;
+    padding: 0.25em;
+    text-transform: uppercase;
+}
+
+.statement {
+    font-size: 1.5em;
+    font-weight: 100;
+    line-height: 1em;
+    margin-top: 2em;
+}
+
+.giantxl {
+    font-family: league-gothic, sans-serif;
+    font-weight: 500;
+    font-size: 6em;
+    text-transform: uppercase;
+    line-height: 1em;
+    display: block;
+}
+
+.minus {
+    font-size: 0.9em;
+    line-height: 1em;
+    letter-spacing: 0px;
+    font-weight: 500;
+    display: block;
+}
+
+.card {
+    margin: 0.5em 20px;
+    background-color: rgba(255, 255, 255, .3);
+    border-radius: 10px;
+}
+
+.encarts {
+    font-weight: 300;
+    font-size: 0.8em;
+    font-style: normal;
+}
+
+.encart_cards {
+    padding: 1em 1.5em;
+    background-color: rgba(255, 255, 255, .05);
+    border-radius: 10px;
+}
+
+.encart_header {
+    padding: 2px 0 1px 0;
+    margin: 0 50% 0 0;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, .25);
+    border-radius: 10px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.encart_cards_dark {
+    padding: 1em 2em;
+    background-color: rgba(255, 255, 255, .15);
+    border-radius: 10px;
+}
+
+.card-text {
+    font-weight: 300;
+    font-size: 0.9em;
+    color: #fffffa;
+}
+
+.card-title {
+    font-weight: 700;
+    font-size: 1em;
+    color: #fffffa;
+}
+
+.card-img-top {
+    border-radius: 10px 10px 0 0;
+}
+
+.product_title {
+    margin-top: 1.5em;
+    padding-right: 2.5em;
+}
+
+.product_title ul {
+    margin: 0;
+    padding-left: 1.5em;
+}
+
+.product {
+    font-weight: 500;
+    font-size: 1.5em;
+    line-height: 1em;
+}
+
+.line-separator {
+    height: 2px;
+    background: #717171;
+    border-bottom: 1px solid #313030;
+    margin: 2em 0;
+}
+
+.intro {
+    background-image: url("../images/Couloir-hopital.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+@media only screen and (min-width: 992px) {
+	.intro {
+    background-image: url("../images/Couloir-hopital.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}}
+
+.intro_text {
+    font-weight: 400;
+    line-height: 1.3em;
+    font-size: 1.3em;
+}
+
+.embed-container {
+    height: 600px;
+    width: 420px;
+    position: relative;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    height: 500px;
+    width: 420px;
+    position: absolute;
+}
+
+@media only screen and (min-width: 992px) {
+    .embed-container {
+        height: 779px;
+        width: 525px;
+        position: relative;
+    }
+    .embed-container iframe,
+    .embed-container object,
+    .embed-container embed {
+        width: 525px;
+        height: 779px;
+        position: absolute;
+    }
+    .minus {
+        font-size: 16pt;
+        letter-spacing: 1px;
+    }
+    .giant {
+        font-size: 2em;
+    }
+    .card-text {
+        font-size: 0.7em;
+    }
+    .card {
+        margin: 2em 0 0 0;
+    }
+}
+
+
+/* Buttons */
+
+.btn-primary,
+.btn-primary:active,
+.btn-primary:visited {
+    background-color: #333333 !important;
+    border: 0px;
+    padding: 1em 2em;
+}
+
+.btn-primary:hover {
+    background-color: #DE4711 !important;
+}
+
+.btn-secondary,
+.btn-secondary:active,
+.btn-secondary:visited {
+    background-color: #DE4711 !important;
+    color: #fffffa !important;
+    border: 0px;
+    padding: 1em 2em;
+
+}
+
+.btn-secondary:hover {
+    background-color: #fffffa!important;
+    color: #DE4711!important;
+}
+
+
+/* Sections */
+
+header {
+    position: relative;
+    height: 10vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+.hero-area {
+    background-image: url("../images/formation.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+}
+
+header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+    position: relative;
+    z-index: 2;
+}
+
+header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+background: rgb(120,31,13);
+background: linear-gradient(180deg, rgba(120,31,13,0) 10%, rgba(51,51,51,1) 95%);
+    opacity: 1;
+    z-index: 1;
+}
+@media only screen and (min-width: 992px) {
+header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+background: rgb(120,31,13);
+background: linear-gradient(180deg, rgba(120,31,13,0) 10%, rgba(51,51,51,1) 95%);
+    opacity: 1;
+    z-index: 1;
+}
+}
+#profile {
+    background: url("../images/Jerome-Bouteiller_dark.jpg") black left top no-repeat;
+}
+
+#training {
+    background-image: url("../images/training_intro2.jpg");
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: cover;
+}
+
+@media (pointer: coarse) and (hover: none) {
+    header video {
+        display: none;
+    }
+}
+
+.video-container {
+    height: 60vh;
+    padding: 0;
+}
+
+.video-container video {
+    /* Setting width & height to auto prevents the browser from stretching or squishing the video */
+    width: auto;
+    height: 90%;
+    border: 15px solid #333333;
+    border-radius: 10px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.cadre {
+    border-bottom: 1px solid red;
+    border-top: 1px solid red;
+    padding: 3px 5px 5px 5px;
+    ;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1..15em;
+}
+
+.container-fluid {
+    overflow: hidden;
+}
+
+img {
+    max-width: 100%;
+}
+
+.row.intro.align-items-center img {
+    height: auto;
+}
+
+h1.hero-heading {
+    font-size: 90px !important;
+    margin-top: 20px;
+    line-height: 100%;
+    text-shadow: 4px 4px black;
+
+}
+
+.row.example img {
+    margin-bottom: 35px;
+}
+
+
+.site-title, .page-title {
+    font-weight: 500;
+}
+
+.site-title, .site-description, .main-navigation, .nav-links, .page-title, .page-description, .comment-author .fn, .no-comments, h2.author-title, p.author-bio, h4 {
+    font-size: 1.25em;
+}
+
+.site-title a:link, .site-title a:visited {
+    color: #29abe2;
+}
