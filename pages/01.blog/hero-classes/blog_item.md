@@ -4,7 +4,7 @@ date: '19:44 06/02/2019'
 publish_date: '02-06-2019 19:44'
 taxonomy:
     category:
-        - blog
+        - articles
     tag:
         - announcement
         - EN
