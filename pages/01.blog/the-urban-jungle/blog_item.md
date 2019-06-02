@@ -8,6 +8,8 @@ taxonomy:
         - travel
         - photography
         - city
+feed:
+    limit: 10
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 hero_image: unsplash-sidney-perry.jpg
 show_sidebar: true
