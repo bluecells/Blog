@@ -31,5 +31,5 @@ pagination: true
 ---
 
 # The **Blog**
-===
+---
 > #### Learn, Share, and Discover
