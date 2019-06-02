@@ -15,7 +15,7 @@ hero_image: unsplash-sidney-perry.jpg
 show_sidebar: true
 ---
 
-[plugin:youtube](https://www.youtube.com/watch?time_continue=3&v=6SMUIL4y1uM)[plugin:youtube](6SMUIL4y1uM)
+[plugin:youtube](https://www.youtube.com/watch?time_continue=3&v=6SMUIL4y1uM)
 **Why do we have such situations?**
 
 It could have gone much worse.  
