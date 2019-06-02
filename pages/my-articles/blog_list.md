@@ -2,18 +2,19 @@
 title: 'My articles'
 body_classes: 'header-dark header-transparent'
 content:
-    items: '- ''@self.children'''
-    leading: '0'
-    columns: '3'
-    limit: '6'
+    items:
+        - '@self.children'
+    leading: 0
+    columns: 3
+    limit: 6
     order:
         by: date
         dir: desc
-    show_date: '0'
-    pagination: '1'
-    url_taxonomy_filters: '1'
+    show_date: false
+    pagination: true
+    url_taxonomy_filters: true
 feed:
-    limit: '10'
+    limit: 10
     description: 'Sample Blog Description'
 hide_git_sync_repo_link: false
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
