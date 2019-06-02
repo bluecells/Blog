@@ -3,9 +3,10 @@ title: 'May I introduce you Martine and John?'
 date: '13:34 07/19/2017'
 taxonomy:
     category:
-        - blog
+        - articles
     tag:
-        - journal
+        - Cards
+        - 'violence at work'
 feed:
     limit: 10
 hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
