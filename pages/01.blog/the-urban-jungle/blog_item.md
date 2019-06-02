@@ -3,11 +3,11 @@ title: 'Avoid Jungle'
 date: '17:34 07/04/2017'
 taxonomy:
     category:
-        - blog
+        - articles
     tag:
-        - travel
-        - photography
-        - city
+        - 'violence at work'
+        - situations
+        - EN
 continue_link: false
 feed:
     limit: 10
