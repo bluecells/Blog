@@ -1,5 +1,5 @@
 ---
-title: 'Mes articles'
+title: 'My articles'
 body_classes: 'header-dark header-transparent'
 content:
     items:
@@ -30,6 +30,6 @@ sitemap:
 pagination: true
 ---
 
-# Le **Blog**
+# The **Blog**
 > #### Learn, Share, and Discover
 ---
