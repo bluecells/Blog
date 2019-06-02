@@ -8,6 +8,7 @@ taxonomy:
         - travel
         - photography
         - city
+continue_link: false
 feed:
     limit: 10
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
