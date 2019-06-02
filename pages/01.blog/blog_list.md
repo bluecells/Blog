@@ -30,5 +30,5 @@ sitemap:
 pagination: true
 ---
 
-# My **Open Publishing** Space
-## Create, Share and Collaborate
+# Your Safety **.training** Space
+## Learn, Share, and Discover
