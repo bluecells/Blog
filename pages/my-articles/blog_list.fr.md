@@ -30,6 +30,6 @@ sitemap:
 pagination: true
 ---
 
-# The **Blog**
+# Le **Blog**
 > #### Learn, Share, and Discover
 ---
