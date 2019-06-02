@@ -1,5 +1,5 @@
 ---
-title: 'My articles'
+title: 'Mes articles'
 body_classes: 'header-dark header-transparent'
 content:
     items:
