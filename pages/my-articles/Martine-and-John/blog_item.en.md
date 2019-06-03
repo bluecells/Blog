@@ -25,7 +25,7 @@ hero_image: unsplash-text.jpg
 We could sell some magic self-defense techniques and make them believe that will solve the problem (knowing that all have very little time for training).
 
 ### **but then, what do you think would happen?**  
-
+<br>
 #### The nurse
 * She weights 50kg and she is 1.60m tall. Her patient is an young male of 1.80m and 85 kg.
 * She will not even dare to use it.
