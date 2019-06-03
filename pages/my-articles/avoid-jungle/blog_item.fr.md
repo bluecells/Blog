@@ -5,9 +5,9 @@ taxonomy:
     category:
         - articles
     tag:
+        - FR
         - 'violence au travail'
         - incidents
-        - FR
 continue_link: false
 feed:
     limit: 10
@@ -16,6 +16,7 @@ hero_image: unsplash-sidney-perry.jpg
 show_sidebar: true
 ---
 
+  
 [plugin:youtube](https://www.youtube.com/watch?time_continue=3&v=6SMUIL4y1uM)
 **Comment pouvons-nous en arriver là ?**
 
