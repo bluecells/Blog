@@ -9,7 +9,7 @@ taxonomy:
         - EN
         - Cards
 summary:
-    size: 100
+    size: 300
 feed:
     limit: 10
 hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
@@ -23,7 +23,7 @@ hero_image: unsplash-text.jpg
 * Violence should not be part of their job
 * They are the target of violent behaviours
 
-
+===
 We could sell some magic self-defense techniques and make them believe that will solve the problem (knowing that all have very little time for training).
 
 ### **But then, what do you think would happen?**  
