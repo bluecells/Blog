@@ -5,8 +5,8 @@ taxonomy:
     category:
         - articles
     tag:
-        - 'violence at work'
         - EN
+        - 'violence at work'
         - Cards
 summary:
     size: 150
@@ -16,7 +16,7 @@ hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
 hero_image: unsplash-text.jpg
 ---
 
-![](https://yoursafety.training/images/my-customers.jpg)
+![](https://yoursafety.training/images/articles/who-are-our-customers.jpg)
 ### **What do a nurse, a fireman and a teacher have in common?**
 
 * They serve people
