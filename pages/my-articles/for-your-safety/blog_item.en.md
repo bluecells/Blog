@@ -6,8 +6,8 @@ taxonomy:
     category:
         - articles
     tag:
-        - announcement
         - EN
+        - announcement
 continue_link: false
 feed:
     limit: 10
