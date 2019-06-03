@@ -5,9 +5,9 @@ taxonomy:
     category:
         - articles
     tag:
+        - EN
         - 'violence at work'
         - situations
-        - EN
 continue_link: false
 feed:
     limit: 10
