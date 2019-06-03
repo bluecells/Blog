@@ -13,6 +13,14 @@ content:
     show_date: false
     pagination: true
     url_taxonomy_filters: true
+metadata:
+                'og:title': Il Blog - YourSafety.training
+                'og:type': website
+                'og:description': Apprendere, Condividere e Scoprire sulla violenza al lavoro.
+                'og:url': http://yoursafety.training/blog/it
+                'og:site_name': YourSafety.Training
+                'og:locale': it
+                'og:image': https://yoursafety.training/images/Facebook_opengraph.png
 feed:
     limit: 10
     description: 'Sample Blog Description'

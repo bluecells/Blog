@@ -13,9 +13,17 @@ content:
     show_date: false
     pagination: true
     url_taxonomy_filters: true
+metadata:
+        'og:title': The Blog - YourSafety.training
+        'og:type': website
+        'og:description': Learn, Share, and Discover more on violence at work.
+        'og:url': http://yoursafety.training/blog/en
+        'og:site_name': YourSafety.Training
+        'og:locale': en
+        'og:image': https://yoursafety.training/images/Facebook_opengraph.png
 feed:
     limit: 10
-    description: 'Sample Blog Description'
+    description: 'Start page'
 hide_git_sync_repo_link: false
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 blog_url: /blog
