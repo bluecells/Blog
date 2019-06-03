@@ -22,12 +22,10 @@ hero_image: unsplash-text.jpg
 * They are the target of violent behaviours
 
 
-We could sell some magic self-defense techniques and make them believe that will solve the problem.
+We could sell some magic self-defense techniques and make them believe that will solve the problem (knowing that all have very little time for training).
 
-### **but then, what do you think would happen?**
-
-* They all have very little time for training
-
+### **but then, what do you think would happen?**  
+  
 #### The nurse
 * She weights 50kg and she is 1.60m tall. Her patient is an young male of 1.80m and 85 kg.
 * She will not even dare to use it.
@@ -41,3 +39,5 @@ We could sell some magic self-defense techniques and make them believe that will
 * He is yound but not a sport guy.
 * He teaches teenagers who are bigger than him.
 * Rather than harming one of them, he will take that punch in his face.
+
+The Nurse could learn **Team-Work**, the Fireman **Adjustable Control and Restraint tools** and the Teacher **Protection skills**.
