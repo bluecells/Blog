@@ -23,7 +23,6 @@ hero_image: unsplash-text.jpg
 * Violence should not be part of their job
 * They are the target of violent behaviours
 
-===
 We could sell some magic self-defense techniques and make them believe that will solve the problem (knowing that all have very little time for training).
 
 ### **But then, what do you think would happen?**  
