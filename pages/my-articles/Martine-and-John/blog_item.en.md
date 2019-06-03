@@ -30,13 +30,11 @@ We could sell some magic self-defense techniques and make them believe that will
 * She weights 50kg and she is 1.60m tall. Her patient is an young male of 1.80m and 85 kg.
 * She will not even dare to use it.
 
-<br>
 #### The fireman
 * He is super-fit and could apply all the techniques.
 * His problem is 50-years old and has lost everything he had.
 * Violent techniques are not applicable.
 
-<br>
 #### The teacher
 * He is yound but not a sport guy.
 * He teaches teenagers who are bigger than him.
