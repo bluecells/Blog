@@ -1,9 +1,9 @@
 ---
-title: 'My articles'
+title: 'Miei articoli'
 body_classes: 'header-dark header-transparent'
 content:
     items:
-        - '@self.children'
+        '@taxonomy.tag': IT
     leading: 0
     columns: 3
     limit: 6
@@ -30,6 +30,6 @@ sitemap:
 pagination: true
 ---
 
-# The **Blog**
-> #### Learn, Share, and Discover
+# IL **Blog**
+> #### Apprendere, Condividere e Scoprire
 ---
