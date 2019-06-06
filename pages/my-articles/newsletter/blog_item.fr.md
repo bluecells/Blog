@@ -1,6 +1,11 @@
 ---
 title: Newsletter
 date: '17:37 06-06-2019'
+taxonomy:
+    tag:
+        - FR
+feed:
+    limit: 10
 ---
 
 <div class="container">
