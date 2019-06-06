@@ -9,6 +9,14 @@ taxonomy:
         - annuncio
         - IT
 continue_link: false
+metadata:
+                'og:title': Il Blog - YourSafety.training
+                'og:type': article
+                'og:description': Per la tua sicurezza!
+                'og:url': https://yoursafety.training/blog/it/my-articles/for-your-safety
+                'og:site_name': YourSafety.Training
+                'og:locale': it
+                'og:image': https://yoursafety.training/images/articles/Facebook_opengraph.jpg
 feed:
     limit: 10
 author: 'J. Bouteiller'
@@ -17,7 +25,7 @@ hero_image: unsplash-overcast-mountains.jpg
 ---
 
 E' un grande onore annunciare la nostra nuova attività.
-**YourSafety.training** ha lo scopo di aiutare i professionisti ad affrontare persone aggressive e resistenti senza eccessi di violenza.
+**YourSafety.training** ha lo scopo di aiutare i professionisti ad affrontare persone aggressive ma non-violente senza eccessi di forza.
 
 La chiave è la professionalità.
 

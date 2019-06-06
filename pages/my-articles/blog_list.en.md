@@ -17,10 +17,10 @@ metadata:
         'og:title': The Blog - YourSafety.training
         'og:type': website
         'og:description': Learn, Share, and Discover more on violence at work.
-        'og:url': http://yoursafety.training/blog/en
+        'og:url': https://yoursafety.training/blog/en
         'og:site_name': YourSafety.Training
         'og:locale': en
-        'og:image': https://yoursafety.training/images/Facebook_opengraph.png
+        'og:image': https://yoursafety.training/images/articles/Facebook_opengraph.jpg
 feed:
     limit: 10
     description: 'Start page'

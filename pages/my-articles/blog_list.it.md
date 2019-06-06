@@ -17,10 +17,10 @@ metadata:
                 'og:title': Il Blog - YourSafety.training
                 'og:type': website
                 'og:description': Apprendere, Condividere e Scoprire sulla violenza al lavoro.
-                'og:url': http://yoursafety.training/blog/it
+                'og:url': https://yoursafety.training/blog/it
                 'og:site_name': YourSafety.Training
                 'og:locale': it
-                'og:image': https://yoursafety.training/images/Facebook_opengraph.png
+                'og:image': https://yoursafety.training/images/articles/Facebook_opengraph.jpg
 feed:
     limit: 10
     description: 'Sample Blog Description'
@@ -38,6 +38,6 @@ sitemap:
 pagination: true
 ---
 
-# IL **Blog**
+# Il **Blog**
 > #### Apprendere, Condividere e Scoprire
 ---

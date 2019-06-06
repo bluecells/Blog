@@ -8,6 +8,14 @@ taxonomy:
         - 'violence at work'
         - EN
         - Cards
+metadata:
+                'og:title': The Blog - YourSafety.training
+                'og:type': article
+                'og:description': What do a nurse, a fireman and a teacher have in common?
+                'og:url': https://yoursafety.training/blog/en/my-articles/who-are-our-customers
+                'og:site_name': YourSafety.Training
+                'og:locale': en
+                'og:image': https://yoursafety.training/images/articles/who-are-our-customers.jpg
 feed:
     limit: 10
 hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
@@ -26,13 +34,14 @@ We could sell some magic self-defense techniques and make them believe that will
 <br>
 #### The nurse
 * She weights 50kg and she is 1.60m tall. Her patient is an young male of 1.80m and 85 kg.
-* She will not even dare to use it.
+* She will not even dare to use it,
+* Worse still, she could upset him even more and pay the price.
 
 <br>
 #### The fireman
 * He is super-fit and could apply all the techniques.
 * His problem is 50-years old and has lost everything he had.
-* Violent techniques are not applicable.
+* Violent techniques are not applicable in that context.
 
 <br>
 #### The teacher
@@ -41,3 +50,5 @@ We could sell some magic self-defense techniques and make them believe that will
 * Rather than harming one of them, he prefers to take that punch in the face.
 
 However, the Nurse could learn **Team-Work**, the Fireman **Adjustable Control and Restraint tools** and the Teacher **Protection skills**.
+
+We could teach you all this.
