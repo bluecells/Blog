@@ -6,7 +6,7 @@ taxonomy:
         - IT
         - 'violenza al lavoro'
 summary:
-    size: 100
+    size: 50
 feed:
     limit: 10
 ---
