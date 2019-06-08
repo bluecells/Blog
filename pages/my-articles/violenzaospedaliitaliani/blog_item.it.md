@@ -5,6 +5,8 @@ taxonomy:
     tag:
         - IT
         - 'violenza al lavoro'
+summary:
+    size: 100
 feed:
     limit: 10
 ---
