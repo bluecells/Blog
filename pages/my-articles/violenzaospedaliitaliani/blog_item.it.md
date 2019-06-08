@@ -9,6 +9,7 @@ feed:
     limit: 10
 ---
 
+![](https://yoursafety.training/images/articles/numeri-ospedali-2018.jpg)
 ### La situazione è preoccupante
 
 * 1200 atti di aggressione
