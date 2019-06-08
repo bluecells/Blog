@@ -3,11 +3,13 @@ title: 'Numeri della violenza negli ospedali italiani'
 date: '17:50 08-06-2019'
 taxonomy:
     tag:
-        - 'violenza al lavoro'
         - IT
+        - 'violenza al lavoro'
+feed:
+    limit: 10
 ---
 
-# La situazione è preoccupante
+### La situazione è preoccupante
 
 * 1200 atti di aggressione
 * 30% delle violenze al lavoro
