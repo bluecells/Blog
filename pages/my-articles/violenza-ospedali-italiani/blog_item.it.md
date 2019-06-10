@@ -9,6 +9,14 @@ summary:
     size: 50
 feed:
     limit: 10
+metadata:
+                    'og:title': Violenza negli ospedali italiani
+                    'og:type': article
+                    'og:description': La situazione è preoccupante!
+                    'og:url': https://yoursafety.training/blog/it/my-articles/violenza-ospedali-italiani
+                    'og:site_name': YourSafety.Training
+                    'og:locale': it
+                    'og:image': https://yoursafety.training/images/articles/numeri-ospedali-2018-FB.jpg
 ---
 
 ![](https://yoursafety.training/images/articles/numeri-ospedali-2018.jpg)
@@ -20,4 +28,3 @@ feed:
 * 16% con danni fisici importanti
 
 > Dati INAIL 2018
-
