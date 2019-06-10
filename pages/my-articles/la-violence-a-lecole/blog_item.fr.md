@@ -1,6 +1,12 @@
 ---
 title: 'La violence à l''école'
 date: '16:20 10-06-2019'
+taxonomy:
+    tag:
+        - FR
+        - 'violence au travail'
+feed:
+    limit: 10
 ---
 
 ![](https://yoursafety.training/images/articles/la-violence-a-l-ecole.jpg)
