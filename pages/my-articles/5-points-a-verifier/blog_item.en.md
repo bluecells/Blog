@@ -14,7 +14,7 @@ taxonomy:
         - EN
         - Cards
 summary:
-    size: 15
+    enabled: '0'
 feed:
     limit: 10
 ---
