@@ -14,6 +14,7 @@ taxonomy:
         - FR
         - Cartes
 summary:
+    enabled: '1'
     format: short
 feed:
     limit: 10
