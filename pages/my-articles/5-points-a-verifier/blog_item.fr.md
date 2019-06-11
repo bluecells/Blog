@@ -15,13 +15,13 @@ taxonomy:
         - Cartes
 summary:
     enabled: '1'
-    size: 75
+    size: 0
 feed:
     limit: 10
 ---
 
 ![](http://yoursafety.training/images/articles/5-points-fr.png)
-###5 points fondamentaux pour apprendre à gérer les comportements agressifs###
+##5 points fondamentaux pour apprendre à gérer les comportements agressifs##
 
 <br><br>
 ####Le contexte####
