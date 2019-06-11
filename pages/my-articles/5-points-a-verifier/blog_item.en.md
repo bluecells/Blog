@@ -5,7 +5,7 @@ metadata:
     'og:title': '5 fundamental points '
     'og:type': article
     'og:description': 'To learn how to manage aggressive behaviour'
-    'og:url': 'https://yoursafety.training/blog/fr/my-articles/5-points-a-verifier'
+    'og:url': 'https://yoursafety.training/blog/my-articles/5-points-a-verifier'
     'og:site_name': YourSafety.Training
     'og:locale': en
     'og:image': 'https://yoursafety.training/images/articles/5-points.png'

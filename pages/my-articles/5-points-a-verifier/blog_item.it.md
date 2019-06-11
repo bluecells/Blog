@@ -5,7 +5,7 @@ metadata:
     'og:title': '5 punti fondamentali '
     'og:type': article
     'og:description': 'Per imparare a gestire i comportamenti aggressivi'
-    'og:url': 'https://yoursafety.training/blog/fr/my-articles/5-points-a-verifier'
+    'og:url': 'https://yoursafety.training/blog/it/my-articles/5-points-a-verifier'
     'og:site_name': YourSafety.Training
     'og:locale': it
     'og:image': 'https://yoursafety.training/images/articles/5-points-it.png'
@@ -36,7 +36,7 @@ Quanto tempo abbiamo per preparare e mantenere un livello tecnico adeguato?
 
 ####Il potenziale####
 **Chi è la mia squadra?**<br>
-n quanti siamo? L'età media? Il livello di forma fisica? Le guardie?
+In quanti siamo? L'età media? Il livello di forma fisica? Le guardie?
 > Avrete un atleta in squadra ma anche Martine, 52 anni e Guy, cintura nera di lasagne...
 
 ####Il quadro giuridico####
