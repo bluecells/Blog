@@ -5,6 +5,14 @@ taxonomy:
     tag:
         - FR
         - Cartes
+metadata:
+    'og:title': '5 points fondamentaux'
+    'og:type': article
+    'og:description': 'Pour apprendre à gérer les comportements agressifs'
+    'og:url': 'https://yoursafety.training/blog/fr/my-articles/5-points-a-verifier'
+    'og:site_name': YourSafety.Training
+    'og:locale': fr
+    'og:image': 'https://yoursafety.training/images/articles/5-points.png'
 feed:
     limit: 10
 ---
