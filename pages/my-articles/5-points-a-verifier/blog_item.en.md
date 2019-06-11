@@ -15,13 +15,13 @@ taxonomy:
         - Cards
 summary:
     enabled: '1'
-    size: 75
+    size: 0
 feed:
     limit: 10
 ---
 
 ![](http://yoursafety.training/images/articles/5-points.png)
-###5 fundamental points to learn how to manage aggressive behaviour###
+####5 fundamental points to learn how to manage aggressive behaviour####
 
 <br><br>
 ####The context####
