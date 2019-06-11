@@ -8,7 +8,7 @@ metadata:
     'og:url': 'https://yoursafety.training/blog/fr/my-articles/5-points-a-verifier'
     'og:site_name': YourSafety.Training
     'og:locale': fr
-    'og:image': 'https://yoursafety.training/images/articles/5-point.png'
+    'og:image': 'https://yoursafety.training/images/articles/5-points.png'
 taxonomy:
     tag:
         - FR
