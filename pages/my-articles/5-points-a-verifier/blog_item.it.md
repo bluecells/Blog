@@ -36,7 +36,7 @@ Quanto tempo abbiamo per preparare e mantenere un livello tecnico adeguato?
 
 ####Il potenziale####
 **Chi è la mia squadra?**<br>
-In quanti siamo? L'età media? Il livello di forma fisica? Le guardie?
+In quanti siamo? L'età media? Il livello di forma fisica? I turni?
 > Avrete un atleta in squadra ma anche Martine, 52 anni e Guy, cintura nera di lasagne...
 
 ####Il quadro giuridico####
