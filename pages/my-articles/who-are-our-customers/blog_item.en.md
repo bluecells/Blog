@@ -1,21 +1,21 @@
 ---
 title: 'What do a nurse, a fireman and a teacher have in common?'
 date: '13:34 07/19/2017'
+metadata:
+    'og:title': 'The Blog - YourSafety.training'
+    'og:type': article
+    'og:description': 'What do a nurse, a fireman and a teacher have in common?'
+    'og:url': 'https://yoursafety.training/blog/en/my-articles/who-are-our-customers'
+    'og:site_name': YourSafety.Training
+    'og:locale': en
+    'og:image': 'https://yoursafety.training/images/articles/who-are-our-customers.jpg'
 taxonomy:
     category:
         - articles
     tag:
-        - 'violence at work'
         - EN
         - Cards
-metadata:
-                'og:title': The Blog - YourSafety.training
-                'og:type': article
-                'og:description': What do a nurse, a fireman and a teacher have in common?
-                'og:url': https://yoursafety.training/blog/en/my-articles/who-are-our-customers
-                'og:site_name': YourSafety.Training
-                'og:locale': en
-                'og:image': https://yoursafety.training/images/articles/who-are-our-customers.jpg
+        - 'violence at work'
 feed:
     limit: 10
 hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'

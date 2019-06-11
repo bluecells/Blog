@@ -8,33 +8,33 @@ metadata:
     'og:url': 'https://yoursafety.training/blog/fr/my-articles/5-points-a-verifier'
     'og:site_name': YourSafety.Training
     'og:locale': fr
-    'og:image': 'https://yoursafety.training/images/articles/5-points.png'
+    'og:image': 'https://yoursafety.training/images/articles/5-points-fr.png'
 taxonomy:
     tag:
         - FR
         - Cartes
 summary:
     enabled: '1'
-    size: 0
+    size: 75
 feed:
     limit: 10
 ---
 
-![](http://yoursafety.training/images/articles/5-points-fr.png)
-##5 points fondamentaux pour apprendre à gérer les comportements agressifs##
+![](http://yoursafety.training/images/articles/5-points.png)
+###5 points fondamentaux<br> pour apprendre à gérer les comportements agressifs###
 
-<br><br>
+<br>
 ####Le contexte####
-**Quel est notre cadre de travail ?**<br> 
+**Quel est notre cadre de travail ?**<br>
 Allons-nous être agressés sur un tatami ou un ring par un adversaire complaisant ?
 > Non. Alors ne choisissez pas ces techniques. Elles sont inadaptées car trop ou pas assez "efficaces".
 
-####L’urgence#### 
+####L’urgence####
 **Quand aura lieu la prochaine agression ?**<br>
 Combien de temps avons-nous à disposition pour nous préparer et entretenir un niveau technique convenable ?
 > Les unités spécialisées ont du mal à s'entraîner deux fois par semaine. Et vous ?
 
-####Le potentiel#### 
+####Le potentiel####
 **Qui constitue mon équipe ?**<br>
 Combien sommes-nous ? L’âge moyen ? Le niveau de forme ? Les gardes ?
 > Vous aurez bien un athlète dans l'équipe mais aussi Martine, 52 ans et Guy, ceinture noire de lasagnes...

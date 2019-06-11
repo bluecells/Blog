@@ -14,15 +14,16 @@ taxonomy:
         - EN
         - Cards
 summary:
-    enabled: '0'
+    enabled: '1'
+    size: 70
 feed:
     limit: 10
 ---
 
 ![](http://yoursafety.training/images/articles/5-points.png)
-##5 fundamental points to learn how to manage aggressive behaviour##
+###5 fundamental points<br> to learn how to manage aggressive behaviour###
 
-<br><br>
+<br>
 ####The context####
 **What is our working environment?**<br>
 Are we going to be attacked in a tatami or ring by a complacent opponent?

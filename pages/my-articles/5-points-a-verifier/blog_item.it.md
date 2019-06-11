@@ -8,22 +8,22 @@ metadata:
     'og:url': 'https://yoursafety.training/blog/fr/my-articles/5-points-a-verifier'
     'og:site_name': YourSafety.Training
     'og:locale': it
-    'og:image': 'https://yoursafety.training/images/articles/5-points.png'
+    'og:image': 'https://yoursafety.training/images/articles/5-points-it.png'
 taxonomy:
     tag:
         - IT
         - Schede
 summary:
     enabled: '1'
-    size: 0
+    size: 70
 feed:
     limit: 10
 ---
 
-![](http://yoursafety.training/images/articles/5-points-it.png)
-##5 punti fondamentali per imparare a gestire i comportamenti aggressivi##
+![](http://yoursafety.training/images/articles/5-points.png)
+###5 punti fondamentali<br> per imparare a gestire i comportamenti aggressivi###
 
-<br><br>
+<br>
 ####Il contesto####
 **Qual è il nostro ambiente di lavoro?**<br>
 Saremo attaccati su un tatami o sul ring da un avversario compiacente?
