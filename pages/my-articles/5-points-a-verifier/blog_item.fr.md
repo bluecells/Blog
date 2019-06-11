@@ -1,10 +1,6 @@
 ---
 title: '5 points fondamentaux'
 date: '16:47 11-06-2019'
-taxonomy:
-    tag:
-        - FR
-        - Cartes
 metadata:
     'og:title': '5 points fondamentaux'
     'og:type': article
@@ -13,13 +9,16 @@ metadata:
     'og:site_name': YourSafety.Training
     'og:locale': fr
     'og:image': 'https://yoursafety.training/images/articles/5-points.png'
+taxonomy:
+    tag:
+        - FR
+        - Cartes
 feed:
     limit: 10
 ---
 
 ![](http://yoursafety.training/images/articles/5-points.png)
-##5 points fondamentaux##
-###pour apprendre à gérer les comportements agressifs###
+##5 points fondamentaux pour apprendre à gérer les comportements agressifs###
 
 ####Le contexte####
 **Quel est notre cadre de travail ?**<br> 
