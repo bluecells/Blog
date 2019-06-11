@@ -15,13 +15,13 @@ taxonomy:
         - Schede
 summary:
     enabled: '1'
-    size: 75
+    size: 0
 feed:
     limit: 10
 ---
 
 ![](http://yoursafety.training/images/articles/5-points-it.png)
-###5 punti fondamentali per imparare a gestire i comportamenti aggressivi###
+####5 punti fondamentali per imparare a gestire i comportamenti aggressivi####
 
 <br><br>
 ####Il contesto####
