@@ -21,7 +21,7 @@ feed:
 ---
 
 ![](http://yoursafety.training/images/articles/5-points.png)
-####5 fundamental points to learn how to manage aggressive behaviour####
+##5 fundamental points to learn how to manage aggressive behaviour##
 
 <br><br>
 ####The context####
