@@ -16,6 +16,8 @@ taxonomy:
         - EN
         - Cards
         - 'violence at work'
+summary:
+    format: short
 feed:
     limit: 10
 hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
