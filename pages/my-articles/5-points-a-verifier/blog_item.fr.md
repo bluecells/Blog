@@ -1,6 +1,12 @@
 ---
 title: '5 points fondamentaux'
 date: '16:47 11-06-2019'
+taxonomy:
+    tag:
+        - FR
+        - Cartes
+feed:
+    limit: 10
 ---
 
 ![](http://yoursafety.training/images/articles/5-points.png)
