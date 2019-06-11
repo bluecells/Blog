@@ -20,7 +20,7 @@ feed:
 ---
 
 ![](http://yoursafety.training/images/articles/5-points.png)
-##5 points fondamentaux pour apprendre à gérer les comportements agressifs###
+###5 points fondamentaux pour apprendre à gérer les comportements agressifs###
 ===
 ####Le contexte####
 **Quel est notre cadre de travail ?**<br> 
