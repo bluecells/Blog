@@ -20,7 +20,7 @@ feed:
     limit: 10
 ---
 
-![](http://yoursafety.training/images/articles/5-points.png)
+![](http://yoursafety.training/images/articles/5-points-fr.png)
 ###5 points fondamentaux pour apprendre à gérer les comportements agressifs###
 
 <br><br>
