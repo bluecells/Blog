@@ -22,6 +22,7 @@ feed:
 ![](http://yoursafety.training/images/articles/5-point.png)
 ###5 points fondamentaux pour apprendre à gérer les comportements agressifs###
 ===
+
 ####Le contexte####
 **Quel est notre cadre de travail ?**<br> 
 Allons-nous être agressés sur un tatami ou un ring par un adversaire complaisant ?
