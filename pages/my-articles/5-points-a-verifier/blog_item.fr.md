@@ -13,13 +13,15 @@ taxonomy:
     tag:
         - FR
         - Cartes
+summary:
+    format: short
 feed:
     limit: 10
 ---
 
 ![](http://yoursafety.training/images/articles/5-points.png)
 ##5 points fondamentaux pour apprendre à gérer les comportements agressifs###
-
+===
 ####Le contexte####
 **Quel est notre cadre de travail ?**<br> 
 Allons-nous être agressés sur un tatami ou un ring par un adversaire complaisant ?
