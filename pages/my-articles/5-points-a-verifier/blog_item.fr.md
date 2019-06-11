@@ -15,7 +15,7 @@ taxonomy:
         - Cartes
 summary:
     enabled: '1'
-    size: 50
+    size: 75
 feed:
     limit: 10
 ---
