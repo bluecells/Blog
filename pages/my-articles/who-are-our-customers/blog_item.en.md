@@ -18,6 +18,7 @@ taxonomy:
         - 'violence at work'
 summary:
     format: short
+    size: 100
 feed:
     limit: 10
 hero_classes: 'text-light title-h1h2 overlay-dark hero-large parallax'
