@@ -10,7 +10,7 @@ date: '11:48 09-07-2019'
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <title>Your Safety Training - Jérôme Bouteiller: allenatore per sicurezza e l'autodifesa professionale</title>
-    <meta name="description" content="Jérôme Bouteiller è un allenatore esperto in sicurezza e autodifesa per i civili. Grazie al suo metodo e ad una selezione di strumenti (Control Wear e KMRED), offre una curva di apprendimento più veloce.">
+    <meta name="description" content="Jérôme Bouteiller propone dei strumenti semplici per lottare contro la violenza al lavoro. Grazie al suo metodo e ad una selezione di strumenti (Control Wear e KMRED), offre una curva di apprendimento più veloce.">
     <meta name="" keywords="jerome bouteiller, istruttore, asd berserk, wilmouth, roca, krav maga, control wear, kmred, sardegna, protect, italia">
     <!-- Bootstrap -->
     <link rel="stylesheet" href="/scss/bootstrap-4.0.0.css" >
