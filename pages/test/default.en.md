@@ -12,8 +12,8 @@ date: '11:48 09-07-2019'
     <meta name="description" content="Handle resistant people with our specific safety training dedicated to emergency professionals">
     <meta name="" keywords="police, law enforcement, nurse, hospital, psychiatric units, medic, pschologist, clinic, violence at work">
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="css/bootstrap-4.0.0.css">
-    <link rel="stylesheet" href="css/bluecells.css">
+    <link rel="stylesheet" href="https://yoursafety.training/css/bootstrap-4.0.0.css">
+    <link rel="stylesheet" href="https://yoursafety.training/css/bluecells.css">
     <link rel="stylesheet" href="https://use.typekit.net/rqs1uhe.css">
 
     <link rel="canonical" href="https://YourSafety.training/" />
@@ -48,38 +48,6 @@ date: '11:48 09-07-2019'
 
   </head>
   <body>
-    <!-- Navigatio BAR-->
-    <div class="container-fluid social-icons">
-      <div class="text-center top">
-        <div style="font-size:0.8em; padding:1vw;">
-            <div style="color:darkgray;">Contact us!
-            <a href="tel:+393282014283" title="Call us now!"><img src="images/telephone.png" height="30" width="auto" alt="Call us now!"><span class="mobile-hide">+39 328 20 14 283</span></a>
-            <span class="bar">|</span>
-            <a href="callto:bluecells" title="Skype"><img src="images/skype.png" height="30" width="auto" alt="Skype" ><span class="mobile-hide">Skype</span></a>
-            <span class="bar">|</span>
-            <a href="https://api.whatsapp.com/send?phone=0393282014283" title="Whatsapp"><img src="images/whatsapp.png" height="30" width="auto" alt="Whatsapp" ><span class="mobile-hide">Whatsapp</span></a>
-            <span class="bar">|</span>
-            <a href="mailto:bluecells@gmail@@com" onmouseover="this.href=this.href.replace('@@','.')" title="E-mail"><img src="images/email.png" height="30" width="auto" alt="E-mail"><span class="mobile-hide">Email</span></a></div></div>
-      </div>
-    </div>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"> <a class="navbar-brand" href="index.html"  title="Train your teams">YOUR SAFETY<br><span style="color:#5dd1f9; font-size:0.8em;">&#9679;</span>TRAINING</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
-    <div class="collapse navbar-collapse" id="navbarNavDropdown">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item active"> <a class="nav-link" title="Adjustable force" href="index.html">Handle violence<span class="sr-only">(current)</span></a> </li>
-        <li class="nav-item"> <a class="nav-link" title="Different options" href="services.html">Training programs</a> </li>
-        <li class="nav-item"> <a class="nav-link" title="Your Safety trainer" href="trainer.html">Trainer</a> </li>
-        <li class="nav-item"> <a class="nav-link" href="http://yoursafety.training/blog/en">Blog</a> </li>
-        <li class="nav-item"> <a class="nav-link" style="color:#DE4711; font-weight:500;" href="https://sibforms.com/serve/MUIEAMtzH68kSCU_bES3nmpddetJBZJfQf5VYHrwsKUeiiYg8GcToJOekmRcB9zS0XRFcnVtGy2noHUOdYlz6_O49SQKRmJNnGGCQ4cSkxhiCJ6gPq9aLyWLXyy_cOGdq2fR5sfgO80XU5cwMPJBYs-8XYoPNyI6y28zgtJ-M-LSrUP4Ca0t3HpzMckO6sHinDGIg9-fVVbH-l5R">Newsletter</a> </li>
-
-      </ul>
-            <ul class="nav navbar-nav">
-                <li class="ml-auto ml-zero-mobile"> <a class="nav-link" href="../IT/index.html"><img src="images/Italy-Flag.png" height="32px" alt="In italiano" title="In italiano"></a></li>
-                <li class="nav-item navbar-right"> <a class="nav-link" href="../FR/index.html"><img src="images/French-Flag.png" height="32px" alt="En français" title="En français"></a></li>
-            </ul>
-    </div>
-  </nav>
-  <!-- Navigatio BAR-->
   <header>
     <div class="overlay"></div>
 
@@ -159,27 +127,7 @@ date: '11:48 09-07-2019'
     </div>
   </div>
 </div>
-   <div class="container footer">
-        <div class="row align-items-center">
-            <div class="col-lg-2 col-md-3 text-right" style="padding:0;">
-                <div class="footer-about footer-box">
-                  <img src="images/yst_logo.png" width="auto" height="90" alt="Your Safety Training">
-                </div>
-            </div>
-            <div class="col-lg-5 col-md-6  text-left" style="padding:0;">
-                <div class="footer-about footer-box">
-                    <p class="text-left" style="padding-left:2em;"><b>Your Safety Training</b> is a Blue Cells srl brand.<br> Copyright Blue Cells srl &copy;2018 • All Rights Reserved<br> Company registration number: 132277<br> VAT: IT01123580951</p>
-                </div>
-            </div>
-            <div class="col-lg-2 col-md-2 offset-1 text-left">
-                <div class="mobile-margin-tb footer-box">
-
-                    <a href="https://www.facebook.com/bc.your.safety.training" rel="nofollow"><img src="images/facebook.png" height="40" width="auto" alt="Facebook" title="Follow YourSafety.training on Facebook"></a>
-                    <a href="https://www.youtube.com/channel/UC-NjQLAKSXV0aEbTOsqtnfQ" rel="nofollow"><img src="images/youtube.png" height="40" width="auto" alt="YouTube" title="Visit YourSafety.training channel"></a>
-                </div>
-            </div>
-        </div>
-    </div>
+   
 </body>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery-3.2.1.min.js"></script>
