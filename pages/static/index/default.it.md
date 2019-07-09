@@ -1,5 +1,5 @@
 ---
-title: 'Professional Training against violence'
+title: 'Formazione Professionale contro la violenza al lavoro'
 date: '11:48 09-07-2019'
 ---
 
