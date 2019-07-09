@@ -10,7 +10,7 @@ date: '11:48 09-07-2019'
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <title>Your Safety Training - Formations pour travailler en sécurité hôpital 118 écoles police municipale pompiers infirmiers infirmières</title>
-    <meta name="description" content="Nous nous concentrons sur la résolution des problèmes pour mettre en place des environnements de travail plus sûrs.">
+    <meta name="description" content="Nous proposons des programmes adaptés à tous pour instaurer un environnement de travail plus sûr.">
     <meta name="" keywords="securité, formation, stage, cours, travail, violence, hôpital, école, auto-défense">
     <!-- Bootstrap -->
     <link rel="stylesheet" href="/scss/bootstrap-4.0.0.css">
