@@ -3,7 +3,6 @@ title: 'Formazione Professionale contro la violenza al lavoro'
 date: '11:48 09-07-2019'
 ---
 
-<!DOCTYPE html>
 <html lang="it">
   <head>
     <meta charset="utf-8">
