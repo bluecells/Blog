@@ -3,7 +3,6 @@ title: 'Professional Training against violence'
 date: '11:48 09-07-2019'
 ---
 
-<!DOCTYPE html>
 <html lang="it">
   <head>
     <meta charset="utf-8">
@@ -104,7 +103,6 @@ date: '11:48 09-07-2019'
   <div class="row padding-mobile">
     <div class="text-left col-sm-5">
       <h2>Servizi per le aziende e i professionisti dell'intervento</h2>
-      <p>&nbsp;<p>
     </div>
 
   <div class="text-left col-sm-6 offset-1">

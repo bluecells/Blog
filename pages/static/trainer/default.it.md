@@ -1,5 +1,5 @@
 ---
-title: 'Jerome Bouteiller - Dei strumenti semplici per lottare contro la violenza'
+title: 'Jerome Bouteiller - Dei strumenti semplici per lottare contro la violenza al lavoro'
 date: '11:48 09-07-2019'
 ---
 
@@ -32,7 +32,7 @@ date: '11:48 09-07-2019'
 </head>
 
 <body>
- 
+
     <div id="profile" class="container-fluid fond2 padding-mobile">
         <div class="text-center"> <img src="/images/More information.png" width="50" height="50" alt="Altre informazioni" />
             <div class="row text-left padding-top-0 align-items-center">
@@ -46,7 +46,7 @@ date: '11:48 09-07-2019'
                             <h4>Le mie qualifiche</h4>
                             <p class="card-text">Parlo inglese, francese e italiano.<br>Sono un imprenditore creativo e la formazione è una delle mie passioni.</p>
                             <p class="card-text">Credo che la metodologia, l’intelligenza e la buona volontà possano disinnescare la violenza anche se a volte è necessario un certo grado di forza.</p>
-                            <p class="card-text">Oggi, consiglio e offro formazione su questi strumenti per gestire situazioni professionali. Sono un istruttore certificato per entrambi.</p>
+                            <p class="card-text">Oggi, consiglio e offro formazione su questi strumenti per gestire situazioni professionali. Sono un istruttore certificato per ognuno di loro.</p>
 
                             <div class="card-text row align-items-center">
                                 <div class="col-3 text-center"> <img src="/images/smaill_CONTROL-WEAR-MANCHE.png" style="padding-left:5px;" width="70vw" height="auto" alt="Control Wear" title="Control Wear" /></div>

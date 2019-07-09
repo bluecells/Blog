@@ -11,14 +11,7 @@ date: '11:48 09-07-2019'
     <title>Your Safety Training - train emergency professionals to fight violence at work</title>
     <meta name="description" content="Handle resistant people with our specific safety training dedicated to emergency professionals">
     <meta name="" keywords="police, law enforcement, nurse, hospital, psychiatric units, medic, pschologist, clinic, violence at work">
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="/scss/bootstrap-4.0.0.css">
-    <link rel="stylesheet" href="/scss/bluecells.css">
-    <link rel="stylesheet" href="https://use.typekit.net/rqs1uhe.css">
 
-    <link rel="canonical" href="https://YourSafety.training/" />
-    <!-- responsive -->
-    <link rel="stylesheet" href="css/responsive.css">
 
     <meta property="og:site_name"          content="YourSafety .training" />
     <meta property="og:url"                content="https://yoursafety.training/" />
@@ -101,7 +94,6 @@ date: '11:48 09-07-2019'
   <div class="row padding-mobile">
     <div class="text-left col-sm-5">
       <h2>Services for companies and intervention professionals</h2>
-      <p>&nbsp;<p>
     </div>
 
   <div class="text-left col-sm-6 offset-1">

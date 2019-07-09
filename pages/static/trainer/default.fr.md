@@ -44,7 +44,7 @@ date: '11:48 09-07-2019'
                             <h4>Mes qualifications</h4>
                             <p class="card-text">Je parle français, anglais et italien couramment.<br> Je suis un homme d'affaires créatif avec une passion, la transmission de savoir.</p>
                             <p class="card-text">Il est à mon sens possible de limiter la violence si l'on sait faire preuve de méthode, d'intelligence et de bonne volonté même s'il faudra parfois en venir aux mains.</p>
-                            <p class="card-text">J'ai choisi pour vous deux systèmes de formation, convaincu qu'ils représentent à ce jour la meilleure base technique et pédagogique du marché. Je suis instructeur certifié pour les trois.</p>
+                            <p class="card-text">J'ai choisi pour vous différents systèmes de formation, convaincu qu'ils représentent à ce jour la meilleure base technique et pédagogique du marché. Je suis instructeur certifié pour les trois.</p>
 
 
                             <div class="card-text row align-items-center">

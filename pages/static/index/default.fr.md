@@ -97,7 +97,6 @@ date: '11:48 09-07-2019'
   <div class="row padding-mobile">
     <div class="text-left col-sm-5">
       <h2>Des services pour les entreprises et les professionnels de l'intervention</h2>
-      <p>&nbsp;<p>
     </div>
 
   <div class="text-left col-sm-6 offset-1">
