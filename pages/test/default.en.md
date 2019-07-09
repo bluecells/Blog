@@ -1,5 +1,5 @@
 ---
-title: test
+title: 'Professional Training against violence'
 date: '11:48 09-07-2019'
 ---
 
