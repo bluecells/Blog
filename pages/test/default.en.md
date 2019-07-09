@@ -54,8 +54,8 @@ date: '11:48 09-07-2019'
     <div class="hero-area">
       <div class="container">
         <div class="row align-items-center padding-mobile">
-          <div class="text-left col-lg-4 col-sm-4 d-none d-md-block"> <img src="images/yst-logo-tall.png" width="100%" height="auto" alt="Your Safety Training logo"/> </div>
-          <div class="text-left col-lg-8 col-sm-8 d-md-none"> <img src="images/yst_logo.png" width="200%" height="auto" alt="Your Safety Training logo"/> </div>
+          <div class="text-left col-lg-4 col-sm-4 d-none d-md-block"> <img src="../images/yst-logo-tall.png" width="100%" height="auto" alt="Your Safety Training logo"/> </div>
+          <div class="text-left col-lg-8 col-sm-8 d-md-none"> <img src="../images/yst_logo.png" width="200%" height="auto" alt="Your Safety Training logo"/> </div>
           <div class="text-left hero-text col-lg-8 col-sm-8"> <h1 class="hero-heading">We train your teams to prevent, limit and contain violence.</h1>
             <!-- Load Facebook SDK for JavaScript -->
             <div id="fb-root"></div>
@@ -121,7 +121,7 @@ date: '11:48 09-07-2019'
 </div>
 <div class="container-fluid">
   <div class="row intro align-items-center">
-    <div class="text-center col-lg-10 offset-1 col-md-10" style="min-height:40vh;"><img src="images/legal_force.png" height="400" width="auto" alt="Violence circle"></div>
+    <div class="text-center col-lg-10 offset-1 col-md-10" style="min-height:40vh;"><img src="../images/legal_force.png" height="400" width="auto" alt="Violence circle"></div>
     <div class="text-center col-lg-10 offset-1 col-md-10">
       <h2>Not all confrontational situations require a forceful response.</h2>
     </div>
