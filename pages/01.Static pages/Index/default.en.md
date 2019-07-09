@@ -1,5 +1,5 @@
 ---
-title: 'Professional Training against violence'
+title: 'Professional Training against violence at work'
 date: '11:48 09-07-2019'
 ---
 
