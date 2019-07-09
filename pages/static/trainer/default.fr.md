@@ -2,13 +2,14 @@
 title: 'Jerome Bouteiller - Des outils simples pour lutter contre la violence'
 date: '11:48 09-07-2019'
 ---
+
 <html lang="fr">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <title>Your Safety Training - Jérôme Bouteiller : coach sécurité et self-défense professionnelles</title>
+    <title>Jérôme Bouteiller propose des outils simples pour lutter contre la violence professionnelle</title>
     <meta name="description" content="Jérôme Bouteiller est un formateur aguerri en matière de sécurité et d'autodéfense pour les civile. Grâce à sa méthode et une sélection d'outils (Control Wear et KMRED), il propose une courbe d'apprentissage est plus rapide.">
     <meta name="" keywords="jerome bouteiller, formateur, instructeur, asd berserk, wilmouth, roca, krav maga, control wear, kmred, protect, france">
     <!-- Bootstrap -->
