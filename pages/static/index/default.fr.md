@@ -8,7 +8,7 @@ date: '11:48 09-07-2019'
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <title>Your Safety Training - Nous formons les professionnels de l'urgence à la lutte contre la violence au travail</title>
+    <title>Formation professionnelle - Nous formons les professionnels de l'urgence à la lutte contre la violence au travail</title>
     <meta name="description" content="Gérez des personnes résistantes grâce à notre formation dédiée aux professionnels de l'urgence.">
     <meta name="" keywords="urgences, police, pompiers, gendarmerie, municipale, infirmiers, psychiatrie, clinique, violence au travail">
     <!-- Bootstrap -->
