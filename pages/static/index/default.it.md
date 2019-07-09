@@ -1,5 +1,5 @@
 ---
-title: 'Formazione Professionale contro la violenza al lavoro'
+title: 'Formazione Professionale per gestire persone resistenti'
 date: '11:48 09-07-2019'
 ---
 
@@ -9,7 +9,7 @@ date: '11:48 09-07-2019'
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <title>Your Safety Training - Formare professionisti dell'emergenza per combattere la violenza sul lavoro</title>
-    <meta name="description" content="Gestire persone resistenti grazie alla nostra formazione dedicata ai professionisti dell'emergenza.">
+    <meta name="description" content="Formazione professionale destinata ai professionisti dell'emergenza per gestire persone resistenti.">
     <meta name="" keywords="polizia, forze dell'ordine, infermiera, ospedale, unità psichiatriche, medico, psicologo, clinica, violenza sul lavoro">
     <!-- Bootstrap -->
     <link rel="stylesheet" href="/scss/bootstrap-4.0.0.css" >
