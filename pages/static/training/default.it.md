@@ -10,7 +10,7 @@ date: '11:48 09-07-2019'
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <title>Your Safety Training - Per ambienti di lavoro più sicuri ospedale 118 scuole carabinieri polizia vigili del fuoco infermieri</title>
-    <meta name="description" content="Lottiamo per la risoluzione dei problemi legati alle aggressioni e minacce verbali per creare ambienti di lavoro più sicuri.">
+    <meta name="description" content="Proponiamo dei programmi adatti a tutti per creare ambienti di lavoro più sicuri.">
     <meta name="" keywords="sicurezza, training, lavoro, corso, violenza, ospedale, scuole, tirocinio, autodifesa">
     <!-- Bootstrap -->
     <link rel="stylesheet" href="/scss/bootstrap-4.0.0.css" >
