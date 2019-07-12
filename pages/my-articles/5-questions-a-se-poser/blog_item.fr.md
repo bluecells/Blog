@@ -1,6 +1,5 @@
 ---
 title: '5 questions à se poser'
-date: '16:03 12-07-2019'
 feed:
     limit: 10
 ---
