@@ -5,6 +5,7 @@ feed:
     limit: 10
 ---
 
+![](http://yoursafety.training/images/articles/5-bonnes-raisons.jpg)
 # Violence au travail
 ## # Les 5 bonnes questions à se poser
 
