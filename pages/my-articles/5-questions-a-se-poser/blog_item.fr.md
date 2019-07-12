@@ -9,9 +9,13 @@ feed:
 ## # Les 5 bonnes questions à se poser
 
 **1. Quels sont mes risques ?**
+
 **2. Que faisons-nous pour les limiter en amont ?**
+
 **3. Que savons/pouvons-nous faire en cas d’urgence ?**
+
 **4. Que feront mes collaborateurs pour m’aider ?**
+
 **5. Comment améliorer notre plan d’action ?**
 
 
