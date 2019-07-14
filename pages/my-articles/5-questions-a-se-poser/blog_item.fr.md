@@ -22,7 +22,7 @@ feed:
 
 ![](http://yoursafety.training/images/articles/5-bonnes-raisons.jpg)
 ### **Risques d'agression dans mon entreprise**
-#### 5 questions pour faire le point
+### 5 questions pour faire le point
 
 **1. Quels sont mes risques ?**
 
