@@ -13,6 +13,7 @@ taxonomy:
     tag:
         - FR
         - Cartes
+slug: 5-questions-a-se-poser-pour-lutter-contre-la-violence-au-travail
 summary:
     enabled: '1'
     size: 75
