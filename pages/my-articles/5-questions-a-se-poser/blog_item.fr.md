@@ -34,7 +34,7 @@ feed:
 5. Comment améliorer notre plan d’action ?
 
 
-De nombreuses sociétés proposent des formations pour **lutter contre la violence au travail**. Mais à mieux y regarder, 90% se limitent à la prévention. Si cette étape est absolument fondamentale, elle n’est pas suffisante. L’intellectualisation de la violence a ses limites, notamment parce qu’elle est confortable, rationnelle : le formateur vous parle du loup sans jamais vous le faire voir ni vous dire comment l’affronter. Or, la résolution de la violence passe par l’inconfort, cette confrontation, ce moment clé où tout bascule.
+De nombreuses sociétés proposent des formations pour **lutter contre la violence au travail**. Mais à mieux y regarder, 90% se limitent à la prévention. Si cette étape est absolument fondamentale, elle n’est pas suffisante. L’intellectualisation de la violence a ses limites, notamment parce qu’elle est confortable, rationnelle : le formateur vous parle du loup sans jamais vous le faire voir ni vous dire comment l’affronter. Or, la résolution de la violence passe par l’inconfort, par la confrontation (ce moment clé où tout bascule).
 >
 > Que diriez-vous de pompiers dont la formation se limiterait aux seuls cours théoriques d’extinction de feux. Imaginez leur surprise devant un incendie et la vôtre s’il s’agit de votre maison !
 
