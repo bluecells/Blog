@@ -5,7 +5,7 @@ metadata:
     'og:title': 'Violence au travail : 5 bonnes questions à se poser'
     'og:type': article
     'og:description': 'Faisons-le point sur la violence au travail'
-    'og:url': 'https://yoursafety.training/fr/my-articles/5-questions-a-se-poser'
+    'og:url': 'https://yoursafety.training/fr/my-articles/5-questions-a-se-poser-pour-lutter-contre-la-violence-au-travail'
     'og:site_name': YourSafety.Training
     'og:locale': fr
     'og:image': 'https://yoursafety.training/images/articles/5-bonnes-raisons.jpg'
