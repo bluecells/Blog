@@ -1,6 +1,40 @@
 ---
 title: 'Professional Training against violence'
+media_order: CW_Entonnoir.jpg
 date: '11:48 09-07-2019'
+googletitle: 'Professional Training against violence | YourSafety.training'
+googledesc: 'At YourSafety.training, we train emergency professionals to fight violence at work. We help nurses, security agents and police operators.'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /static/index/CW_Entonnoir.jpg
+twittertitle: 'Professional Training against violence | YourSafety.training'
+twitterdescription: 'At YourSafety.training, we train emergency professionals to fight violence at work. We help nurses, security agents and police operators.'
+articleenabled: true
+article:
+    headline: 'Professional Training against violence | YourSafety.training'
+    datePublished: '31-07-2019 23:12'
+    dateModified: '31-07-2019 23:12'
+    description: 'At YourSafety.training, we train emergency professionals to fight violence at work. We help nurses, security agents and police operators.'
+    image_url: /static/index/CW_Entonnoir.jpg
+    author: 'Jérôme Bouteiller'
+    publisher_logo_url: /my-articles/logo_yst.jpg
+    publisher_name: YourSafety.training
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
+facebooktitle: 'Professional Training against violence | YourSafety.training'
+facebookdesc: 'At YourSafety.training, we train emergency professionals to fight violence at work. We help nurses, security agents and police operators.'
+facebookauthor: 'https://www.facebook.com/bc.your.safety.training/'
+facebookimg: /static/index/CW_Entonnoir.jpg
 ---
 
 <html lang="en">
