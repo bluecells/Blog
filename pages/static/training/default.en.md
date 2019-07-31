@@ -5,6 +5,7 @@ date: '11:48 09-07-2019'
 googledesc: 'Learn how to get the job done while respecting users'' physical integrity to be recognized as a true professional.'
 twitterenable: true
 twittercardoptions: summary
+twittershareimg: /static/training/CW_Proattitude%20-%20Copie.jpg
 twittertitle: 'Train to stop violence at work '
 twitterdescription: 'Learn how to get the job done while respecting users'' physical integrity to be recognized as a true professional.'
 articleenabled: true
