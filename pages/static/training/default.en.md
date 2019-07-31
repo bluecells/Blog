@@ -1,6 +1,37 @@
 ---
 title: 'Train to stop violence at work'
+media_order: 'CW_Proattitude - Copie.jpg'
 date: '11:48 09-07-2019'
+googledesc: 'Learn how to get the job done while respecting users'' physical integrity to be recognized as a true professional.'
+twitterenable: true
+twittercardoptions: summary
+twittertitle: 'Train to stop violence at work '
+twitterdescription: 'Learn how to get the job done while respecting users'' physical integrity to be recognized as a true professional.'
+articleenabled: true
+article:
+    headline: 'Train to stop violence at work '
+    datePublished: '31-07-2019 23:21'
+    dateModified: '31-07-2019 23:21'
+    description: 'Learn how to get the job done while respecting users'' physical integrity to be recognized as a true professional.'
+    image_url: /static/training/CW_Proattitude%20-%20Copie.jpg
+    author: 'Jérôme Bouteiller'
+    publisher_logo_url: /my-articles/logo_yst.jpg
+    publisher_name: YourSafety.training
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebooktitle: 'Train to stop violence at work '
+facebookdesc: 'Learn how to get the job done while respecting users'' physical integrity to be recognized as a true professional.'
+facebookauthor: 'https://www.facebook.com/bc.your.safety.training/'
+facebookimg: /static/training/CW_Proattitude%20-%20Copie.jpg
 ---
 
 <html lang="en">
