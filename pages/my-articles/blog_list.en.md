@@ -39,6 +39,7 @@ article:
     description: 'Violence at work is preventable not inevitable. Read our articles to fight aggressive behaviours at the workplace.'
     image_url: /my-articles/CW_ControleSol.jpg
     author: 'Jérôme Bouteiller'
+    publisher_logo_url: /my-articles/logo_yst.jpg
     publisher_name: YourSafety.training
 musiceventenabled: false
 orgaenabled: false
