@@ -4,7 +4,7 @@ date: '11:48 09-07-2019'
 googledesc: 'Learn safely. Train professionally. Ensure people''s security even your aggressors! They may be your patients or clients.'
 twitterenable: true
 twittercardoptions: summary
-twittershareimg: /static/trainer/Jerome-Bouteiller_dark.jpg
+twittershareimg: /static/trainer/CW_Securite%20-%20Copie.jpg
 twittertitle: 'Jerome Bouteiller - Simple tools to stop violence'
 twitterdescription: 'Learn safely. Train professionally. Ensure people''s security even your aggressors! They may be your patients or clients.'
 articleenabled: true
@@ -13,7 +13,7 @@ article:
     datePublished: '31-07-2019 23:27'
     dateModified: '31-07-2019 23:27'
     description: 'Learn safely. Train professionally. Ensure people''s security even your aggressors! They may be your patients or clients.'
-    image_url: /static/trainer/Jerome-Bouteiller_dark.jpg
+    image_url: /static/trainer/CW_Securite%20-%20Copie.jpg
     author: 'Jérôme Bouteiller'
     publisher_logo_url: /my-articles/logo_yst.jpg
     publisher_name: YourSafety.training
@@ -32,7 +32,7 @@ facebookenable: true
 facebooktitle: 'Jerome Bouteiller - Simple tools to stop violence'
 facebookdesc: 'Learn safely. Train professionally. Ensure people''s security even your aggressors! They may be your patients or clients.'
 facebookauthor: 'https://www.facebook.com/bc.your.safety.training/'
-facebookimg: /static/trainer/Jerome-Bouteiller_dark.jpg
+facebookimg: /static/trainer/CW_Securite%20-%20Copie.jpg
 ---
 
 <html lang="en">
