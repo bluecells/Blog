@@ -1,5 +1,6 @@
 ---
 title: 'My articles'
+media_order: 'CW_ControleSol.jpg,yst_logo.png'
 metadata:
     'og:title': 'The Blog - YourSafety.training'
     'og:type': website
@@ -27,6 +28,7 @@ feed:
 googletitle: 'Safety at work | YourSafety.training - The Blog'
 googledesc: 'Violence at work is preventable not inevitable. Read our articles to fight aggressive behaviours at the workplace.'
 twittercardoptions: summary
+twittershareimg: /my-articles/CW_ControleSol.jpg
 twittertitle: 'Safety at work | YourSafety.training - The Blog'
 twitterdescription: 'Violence at work is preventable not inevitable. Read our articles to fight aggressive behaviours at the workplace.'
 articleenabled: true
@@ -35,6 +37,7 @@ article:
     datePublished: '31-07-2019 22:55'
     dateModified: '31-07-2019 22:55'
     description: 'Violence at work is preventable not inevitable. Read our articles to fight aggressive behaviours at the workplace.'
+    image_url: /my-articles/CW_ControleSol.jpg
     author: 'Jérôme Bouteiller'
     publisher_name: YourSafety.training
 musiceventenabled: false
@@ -52,6 +55,7 @@ facebookenable: true
 facebooktitle: 'Safety at work | YourSafety.training - The Blog'
 facebookdesc: 'Violence at work is preventable not inevitable. Read our articles to fight aggressive behaviours at the workplace.'
 facebookauthor: 'https://www.facebook.com/bc.your.safety.training/'
+facebookimg: /my-articles/CW_ControleSol.jpg
 hide_git_sync_repo_link: false
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 blog_url: /blog
