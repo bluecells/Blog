@@ -29,6 +29,7 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookenable: true
 facebooktitle: 'Train to stop violence at work '
 facebookdesc: 'Learn how to get the job done while respecting users'' physical integrity to be recognized as a true professional.'
 facebookauthor: 'https://www.facebook.com/bc.your.safety.training/'
