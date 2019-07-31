@@ -1,6 +1,6 @@
 ---
 title: 'My articles'
-media_order: 'CW_ControleSol.jpg,yst_logo.png'
+media_order: 'CW_ControleSol.jpg,logo_yst.jpg'
 metadata:
     'og:title': 'The Blog - YourSafety.training'
     'og:type': website
