@@ -1,6 +1,6 @@
 ---
 title: 'Jerome Bouteiller - Simple tools to stop violence'
-media_order: Jerome-Bouteiller_dark.jpg
+media_order: 'CW_Securite - Copie.jpg'
 date: '11:48 09-07-2019'
 googledesc: 'Learn safely. Train professionally. Ensure people''s security even your aggressors! They may be your patients or clients.'
 twitterenable: true
